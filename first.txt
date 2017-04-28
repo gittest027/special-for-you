@@ -1,0 +1,2 @@
+Hello world!
+World, let's see how Git work :)
