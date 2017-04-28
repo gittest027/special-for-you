@@ -1,2 +1,2 @@
 World say:
-I ¦ Git!
+I love Git!

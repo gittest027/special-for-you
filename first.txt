@@ -1,2 +1,2 @@
-Hello world!
+Hi,
 World, let's see how Git work :)
