@@ -1,2 +1,2 @@
 Hi,
-World, let's see how Git work :)
+World, do you like Git?
